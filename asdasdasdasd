@@ -1,0 +1,729 @@
+<!doctype html>
+<html amp lang="id">
+<head>
+
+    <meta charset="utf-8">
+
+    <meta name="viewport"
+        content="width=device-width,minimum-scale=1,initial-scale=1">
+
+    <title>Mengenal Ibiza168 dan Layanan Online Terbarunya</title>
+
+    <meta name="description"
+        content="Temukan informasi seputar Ibiza168, mulai dari akses terbaru hingga fitur yang dirancang agar pengguna dapat menjelajahi platform dengan mudah.">
+
+    <link rel="canonical" href="https://lolivicola.it/tag/acquarica/">
+
+    <!-- AMP -->
+    <script async src="https://cdn.ampproject.org/v0.js"></script>
+
+    <!-- AMP VIDEO -->
+    <script async
+        custom-element="amp-video"
+        src="https://cdn.ampproject.org/v0/amp-video-0.1.js"></script>
+
+
+    <!-- AMP BOILERPLATE -->
+    <style amp-boilerplate>
+        body {
+            -webkit-animation: -amp-start 8s steps(1,end) 0s 1 normal both;
+            -moz-animation: -amp-start 8s steps(1,end) 0s 1 normal both;
+            -ms-animation: -amp-start 8s steps(1,end) 0s 1 normal both;
+            animation: -amp-start 8s steps(1,end) 0s 1 normal both
+        }
+
+        @-webkit-keyframes -amp-start {
+            from {
+                visibility: hidden
+            }
+
+            to {
+                visibility: visible
+            }
+        }
+
+        @-moz-keyframes -amp-start {
+            from {
+                visibility: hidden
+            }
+
+            to {
+                visibility: visible
+            }
+        }
+
+        @-ms-keyframes -amp-start {
+            from {
+                visibility: hidden
+            }
+
+            to {
+                visibility: visible
+            }
+        }
+
+        @-o-keyframes -amp-start {
+            from {
+                visibility: hidden
+            }
+
+            to {
+                visibility: visible
+            }
+        }
+
+        @keyframes -amp-start {
+            from {
+                visibility: hidden
+            }
+
+            to {
+                visibility: visible
+            }
+        }
+    </style>
+
+    <noscript>
+        <style amp-boilerplate>
+            body {
+                -webkit-animation: none;
+                -moz-animation: none;
+                -ms-animation: none;
+                animation: none
+            }
+        </style>
+    </noscript>
+
+
+    <style amp-custom>
+
+        * {
+            box-sizing: border-box;
+        }
+
+        html,
+        body {
+            margin: 0;
+            padding: 0;
+            width: 100%;
+            height: 100%;
+            overflow: hidden;
+            background: #050505;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        .short-page {
+            position: fixed;
+            top: 0;
+            right: 0;
+            bottom: 0;
+            left: 0;
+
+            width: 100%;
+            height: 100%;
+
+            overflow: hidden;
+            background: #050505;
+        }
+
+
+        /* =========================
+           VIDEO
+        ========================= */
+
+        .background {
+            position: absolute;
+            top: 0;
+            right: 0;
+            bottom: 0;
+            left: 0;
+
+            width: 100%;
+            height: 100%;
+
+            overflow: hidden;
+            background: #050505;
+            z-index: 1;
+        }
+
+        .background amp-video {
+            position: absolute;
+            top: 0;
+            left: 0;
+
+            width: 100%;
+            height: 100%;
+        }
+
+        .background video {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            object-position: center center;
+        }
+
+
+        /* =========================
+           VIDEO OVERLAY
+        ========================= */
+
+        .background:after {
+            content: "";
+
+            position: absolute;
+            top: 0;
+            right: 0;
+            bottom: 0;
+            left: 0;
+
+            background:
+                linear-gradient(
+                    to bottom,
+                    rgba(0,0,0,.45) 0%,
+                    rgba(0,0,0,.08) 35%,
+                    rgba(0,0,0,.15) 50%,
+                    rgba(0,0,0,.82) 78%,
+                    rgba(0,0,0,.97) 100%
+                );
+
+            pointer-events: none;
+        }
+
+
+        /* =========================
+           ORANGE GLOW
+        ========================= */
+
+        .glow {
+            position: absolute;
+            top: 0;
+            right: 0;
+            bottom: 0;
+            left: 0;
+
+            z-index: 2;
+            pointer-events: none;
+
+            background:
+                radial-gradient(
+                    circle at 50% 70%,
+                    rgba(255,115,0,.16),
+                    transparent 38%
+                );
+        }
+
+
+        /* =========================
+           TOP
+        ========================= */
+
+        .top {
+            position: absolute;
+
+            top: 0;
+            left: 0;
+
+            width: 100%;
+
+            padding-top: 20px;
+            padding-right: 18px;
+            padding-left: 18px;
+
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+
+            z-index: 10;
+        }
+
+
+        /* =========================
+           LOGO
+        ========================= */
+
+        .logo {
+            display: block;
+
+            width: 125px;
+            max-width: 34vw;
+
+            filter:
+                drop-shadow(0 0 8px rgba(255,105,0,.65))
+                drop-shadow(0 0 20px rgba(255,105,0,.3));
+        }
+
+        .logo amp-img {
+            display: block;
+        }
+
+
+        /* =========================
+           ONLINE
+        ========================= */
+
+        .online {
+            display: flex;
+            align-items: center;
+
+            gap: 7px;
+
+            padding: 7px 12px;
+
+            border: 1px solid rgba(255,130,0,.65);
+            border-radius: 30px;
+
+            background: rgba(10,10,10,.62);
+
+            color: #fff;
+
+            font-size: 10px;
+            font-weight: 800;
+
+            letter-spacing: 1.5px;
+        }
+
+        .online-dot {
+            width: 7px;
+            height: 7px;
+
+            border-radius: 50%;
+
+            background: #ff7900;
+
+            box-shadow:
+                0 0 6px #ff7900,
+                0 0 14px rgba(255,121,0,.9);
+        }
+
+
+        /* =========================
+           RIGHT MENU
+        ========================= */
+
+        .right-menu {
+            position: absolute;
+
+            right: 12px;
+            bottom: 210px;
+
+            width: 58px;
+
+            z-index: 10;
+
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+
+            gap: 5px;
+        }
+
+        .circle {
+            width: 43px;
+            height: 43px;
+
+            display: flex;
+            align-items: center;
+            justify-content: center;
+
+            border-radius: 50%;
+
+            background: rgba(0,0,0,.58);
+
+            border: 1px solid rgba(255,255,255,.25);
+
+            color: #fff;
+
+            font-size: 14px;
+            font-weight: 800;
+        }
+
+        .circle.orange {
+            background:
+                linear-gradient(
+                    145deg,
+                    #ff9a00,
+                    #ff4d00
+                );
+
+            border-color: #ff9a00;
+
+            box-shadow:
+                0 0 10px rgba(255,94,0,.7),
+                0 0 25px rgba(255,94,0,.28);
+        }
+
+        .circle-text {
+            color: rgba(255,255,255,.72);
+
+            font-size: 8px;
+            font-weight: 700;
+
+            letter-spacing: 1px;
+
+            margin-bottom: 5px;
+
+            text-align: center;
+        }
+
+
+        /* =========================
+           CONTENT
+        ========================= */
+
+        .content {
+            position: absolute;
+
+            left: 0;
+            bottom: 0;
+
+            width: 100%;
+
+            padding-right: 78px;
+            padding-bottom: 22px;
+            padding-left: 18px;
+
+            z-index: 9;
+        }
+
+
+        /* =========================
+           LABEL
+        ========================= */
+
+        .label {
+            display: inline-block;
+
+            padding: 6px 10px;
+
+            border-radius: 5px;
+
+            background: rgba(255,102,0,.12);
+
+            border: 1px solid rgba(255,102,0,.48);
+
+            color: #ff8a00;
+
+            font-size: 9px;
+            font-weight: 800;
+
+            letter-spacing: 2px;
+
+            margin-bottom: 10px;
+        }
+
+
+        /* =========================
+           SUBTITLE
+        ========================= */
+
+        .subtitle {
+            color: #fff;
+
+            font-size: 14px;
+            font-weight: 800;
+
+            letter-spacing: 1.8px;
+
+            text-transform: uppercase;
+        }
+
+
+        /* =========================
+           DESCRIPTION
+        ========================= */
+
+        .description {
+            margin: 9px 0 15px;
+
+            max-width: 310px;
+
+            color: rgba(255,255,255,.72);
+
+            font-size: 11px;
+
+            line-height: 1.55;
+        }
+
+
+        /* =========================
+           BUTTON
+        ========================= */
+
+        .buttons {
+            display: flex;
+
+            width: 100%;
+            max-width: 340px;
+
+            gap: 8px;
+        }
+
+        .btn {
+            flex: 1;
+
+            min-height: 43px;
+
+            display: flex;
+            align-items: center;
+            justify-content: center;
+
+            border-radius: 7px;
+
+            text-decoration: none;
+
+            font-size: 11px;
+            font-weight: 900;
+
+            letter-spacing: 1.5px;
+        }
+
+        .btn.login {
+            color: #fff;
+
+            background: rgba(255,255,255,.08);
+
+            border: 1px solid rgba(255,255,255,.42);
+        }
+
+        .btn.register {
+            color: #fff;
+
+            background:
+                linear-gradient(
+                    135deg,
+                    #ff9a00,
+                    #ff4b00
+                );
+
+            border: 1px solid #ff9a00;
+
+            box-shadow:
+                0 0 12px rgba(255,90,0,.5),
+                0 0 25px rgba(255,70,0,.18);
+        }
+
+
+        /* =========================
+           FOOTER
+        ========================= */
+
+        .bottom-line {
+            margin-top: 13px;
+
+            color: rgba(255,255,255,.38);
+
+            font-size: 8px;
+
+            letter-spacing: 2.5px;
+
+            font-weight: 700;
+        }
+
+
+        /* =========================
+           SMALL MOBILE
+        ========================= */
+
+        @media (max-height: 650px) {
+
+            .right-menu {
+                bottom: 165px;
+            }
+
+            .content {
+                padding-bottom: 15px;
+            }
+
+            .description {
+                margin-top: 7px;
+                margin-bottom: 10px;
+            }
+
+            .btn {
+                min-height: 38px;
+            }
+
+            .bottom-line {
+                margin-top: 8px;
+            }
+        }
+
+
+        /* =========================
+           DESKTOP
+        ========================= */
+
+        @media (min-width: 700px) {
+
+            body {
+                display: flex;
+                align-items: center;
+                justify-content: center;
+
+                background: #111;
+            }
+
+            .short-page {
+                position: relative;
+
+                width: 430px;
+                height: 100vh;
+
+                max-height: 900px;
+
+                border-radius: 12px;
+
+                overflow: hidden;
+
+                box-shadow:
+                    0 0 0 1px rgba(255,255,255,.08),
+                    0 0 60px rgba(255,90,0,.18);
+            }
+        }
+
+    </style>
+
+</head>
+
+
+<body>
+
+<div class="short-page">
+
+
+    <!-- VIDEO BACKGROUND -->
+
+    <div class="background">
+
+        <amp-video
+            width="900"
+            height="1600"
+            layout="fill"
+            autoplay
+            loop
+            muted
+            poster="https://lolivicola.it/img/SLOT-GACOR-11-9-2026.webp">
+
+            <source
+                src="https://lolivicola.it/img/pargoypargoy.mp4"
+                type="video/mp4">
+
+        </amp-video>
+
+    </div>
+
+
+    <!-- ORANGE GLOW -->
+
+    <div class="glow"></div>
+
+
+    <!-- TOP BAR -->
+
+    <div class="top">
+
+        <a href="/" class="logo">
+
+            <amp-img
+                src="https://lolivicola.it/img/SLOT-GACOR-11-9-2026.webp"
+                width="125"
+                height="55"
+                layout="responsive"
+                alt="SLOT GACOR">
+            </amp-img>
+
+        </a>
+
+
+        <div class="online">
+
+            <span class="online-dot"></span>
+
+            IBIZA168
+
+        </div>
+
+    </div>
+
+
+    <!-- RIGHT MENU -->
+
+    <div class="right-menu">
+
+        <div class="circle orange">
+            168
+        </div>
+
+        <div class="circle-text">
+            SLOT
+        </div>
+
+
+        <div class="circle">
+            ★
+        </div>
+
+        <div class="circle-text">
+            GACOR
+        </div>
+
+
+        <div class="circle">
+            ↗
+        </div>
+
+        <div class="circle-text">
+            SHARE
+        </div>
+
+    </div>
+
+
+    <!-- BOTTOM CONTENT -->
+
+    <div class="content">
+
+        <div class="label">
+            SLOT GACOR
+        </div>
+
+
+        <div class="subtitle">
+            Mengenal Ibiza168 dan Layanan Online Terbarunya
+        </div>
+
+
+        <p class="description">
+            Temukan informasi seputar Ibiza168, mulai dari akses terbaru hingga fitur yang dirancang agar pengguna dapat menjelajahi platform dengan mudah.
+        </p>
+
+
+        <div class="buttons">
+
+            <a
+                href="https://ln.run/ibizaxudin"
+                class="btn login">
+                LOGIN
+            </a>
+
+
+            <a
+                href="https://ln.run/ibizaxudin"
+                class="btn register">
+                DAFTAR
+            </a>
+
+        </div>
+
+
+        <div class="bottom-line">
+            SLOT GACOR • seoseoan
+        </div>
+
+    </div>
+
+
+</div>
+
+</body>
+</html>
